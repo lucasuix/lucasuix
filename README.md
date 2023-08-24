@@ -1,5 +1,4 @@
-I'm here mainly for making Linux ricing easier.
-My goal is set up scripts that automate the ricing work from scratch.
+Brazilian Portuguese / English
 
 <!---
 lucasuix/lucasuix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
