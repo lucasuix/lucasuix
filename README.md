@@ -1,5 +1,5 @@
 ## Objetivo
-Adquirir experiência na área de tecnologia e inovação, promovendo mudanças positivas nos processos industriais.
+Interesse em sistemas embarcados para promover novas soluções automatizadas para problemas que ocorrem regularmente, juntamente com usabilidade e conveniência para o usuário final.
 
 ## Habilidades
 - C/C++
