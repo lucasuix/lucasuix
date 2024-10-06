@@ -11,9 +11,6 @@ Adquirir experiência na área de tecnologia e inovação, promovendo mudanças 
 - Systemctl
 - Terminal
 
-## Interesses
-Sistemas embarcados para soluções automatizadas e conveniência do usuário final.
-
 
 <!---
 lucasuix/lucasuix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
