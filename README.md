@@ -8,8 +8,6 @@ Adquirir experiência na área de tecnologia e inovação, promovendo mudanças 
 - PHP
 - JavaScript
 - Linux
-- Systemctl
-- Terminal
 
 
 <!---
