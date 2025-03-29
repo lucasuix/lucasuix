@@ -3,10 +3,10 @@ Interesse em sistemas embarcados para promover novas soluções automatizadas pa
 
 ## Habilidades
 - C/C++
+- Python
 - ESP32
 - STM32
-- PHP
-- JavaScript
+- Arduino
 - Linux
 
 
